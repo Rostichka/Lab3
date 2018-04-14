@@ -46,3 +46,4 @@ int main()
 		scores[j] = -1;
 	}
 	return 0;
+}
